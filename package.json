@@ -1,0 +1,19 @@
+{
+    "name": "hexo-zhruby",
+    "version": "0.0.1",
+    "description": "Generate Ruby tag in JyutPing, ZhuYin, and PinYin for Hexo",
+    "main": "index.js",
+    "keywords": [
+        "hexo",
+        "ruby",
+        "JyutPing",
+        "ZhuYin",
+        "PinYin"
+    ],
+    "author": "GreenMeeple",
+    "dependencies": {
+      "pinyin": ">=4.0.0",
+      "pinyin-zhuyin": ">=1.0.0",
+      "to-jyutping": ">=3.1.0"
+    }
+  }
