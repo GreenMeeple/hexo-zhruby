@@ -28,7 +28,7 @@ Ruby (ルビ) is also known as [Furigana](https://en.wikipedia.org/wiki/Furigana
 - `{% ruby_def 基本|기본 %}` → <ruby>基本<rp> (</rp><rt>기본</rt><rp>) </rp></ruby>
 - `{% ruby_def 基本|fundamental %}` → <ruby>基本<rp> (</rp><rt>fundamental</rt><rp>) </rp></ruby>
 - `{% ruby_def 基本|θεμελιώδες %}` → <ruby>基本<rp> (</rp><rt>θεμελιώδες</rt><rp>) </rp></ruby>
-- `{% ruby_def 基本|основной %}` → <ruby>基本<rp> (</rp><rt>базовый</rt><rp>) </rp></ruby>
+- `{% ruby_def 基本|базовый %}` → <ruby>基本<rp> (</rp><rt>базовый</rt><rp>) </rp></ruby>
 - `{% ruby_def 基本|základní %}` → <ruby>基本<rp> (</rp><rt>základní</rt><rp>) </rp></ruby>
 - `{% ruby_def fundamental|基本 %}` → <ruby>fundamental<rp> (</rp><rt>基本</rt><rp>)
 
