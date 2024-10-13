@@ -1,7 +1,7 @@
 {
   "name": "hexo-zhruby",
   "version": "1.0.0",
-  "description": "Hexo Tag Plugin for html tag <ruby>. Providing Cantonese \"Jyutping\", Taiwanese Mandarin \"Zhuyin\", and Mandarin \"Pinyin\" options.",
+  "description": "Hexo Tag Plugin for html tag <ruby>. Provide auto pronounciation indication for Jyutping (Cantonese), Zhuyin (Taiwanese Mandarin), and Pinyin (Chinese Mandarin). Support Traditonal and Simplified Chinese characters.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,16 +22,17 @@
     "traditional-chinese",
     "simplified-chinese",
     "chinese",
-    "chinese-characters"
+    "chinese-characters",
+    "cantonese-romanization"
   ],
   "author": "GreenMeeple",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/GreenMeeple/hexo-zhruby/issues"
   },
   "homepage": "https://github.com/GreenMeeple/hexo-zhruby#readme",
   "dependencies": {
-    "pinyin": ">=4.0.0",
+    "pinyin": ">=2.11.0",
     "pinyin-zhuyin": ">=1.0.0",
     "to-jyutping": ">=3.1.0"
   }
