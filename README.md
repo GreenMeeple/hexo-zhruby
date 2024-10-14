@@ -68,7 +68,7 @@ If the input of `rt` is not in CJK Unified Ideographs, it is considered as `ruby
 
 ## Known issues ##
 
-The Chinese language contains a lot of **Homophones**, which can be resolved by context most of the time. However, for long sentences (>= 15 characters), or very specific names and terms, the auto-generation from 1st use case may not be very sensitive. 
+The Chinese language contains a lot of **Homophones**, which can be resolved by context most of the time. However, for long sentences (>= 15 characters), or very specific names and terms, the auto-generation from 1st use case may not be very sensitive.
 
 Please use `ruby_def` if it happens or contribute to this project by providing a more sensitive or advanced Chinese vocabulary library.
 
