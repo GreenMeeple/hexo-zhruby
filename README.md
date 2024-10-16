@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/hexo-zhruby)](https://www.npmjs.com/package/hexo-zhruby) [![types](https://img.shields.io/npm/types/hexo-zhruby)](https://www.npmjs.com/package/hexo-zhruby) [![license](https://img.shields.io/npm/l/hexo-zhruby)](https://www.npmjs.com/package/hexo-zhruby)
 
-Implement the HTML tag `<ruby>` for Hexo using [Tag Plugin](https://hexo.io/docs/tag-plugins) feature. Provide auto pronounciation indication for Jyutping (Cantonese), Zhuyin (Taiwanese Mandarin), and Pinyin (Chinese Mandarin), and the default setting for general usage. Support Traditonal and Simplified Chinese characters. 
+Implement the HTML tag `<ruby>` for Hexo using [Tag Plugin](https://hexo.io/docs/tag-plugins) feature. Provide auto pronunciation indication for Jyutping (Cantonese), Zhuyin (Taiwanese Mandarin), and Pinyin (Chinese Mandarin), and the default setting for general usage. Support Traditonal and Simplified Chinese characters.
 
 Inspired by the [hexo-ruby-character](https://github.com/jamespan/hexo-ruby-character) by [jamespan](https://github.com/jamespan).
 
